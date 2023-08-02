@@ -66,6 +66,6 @@ Special thanks to the authors and maintainers of the libraries used in this proj
 
 Please feel free to contact us if you have any questions or suggestions related to this project. Happy forecasting!
 
-[Your Name](https://github.com/your-username)
+[Abhay Tyagi](https://github.com/Abhay14tyagi)
 
 **Note**: Replace "your-username" with your GitHub username and update the `Your Name` section with your actual name or preferred display name. Also, feel free to add any additional sections or information that you think would be useful for users exploring your project on GitHub.
